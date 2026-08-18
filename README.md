@@ -20,7 +20,7 @@ Facilitar a operadores de data centers una estimación precisa del desperdicio d
 
 | Recurso                                          | Enlace                                                                                                                                                                                                                                         |
 | :----------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🎨 **Figma** — Flujo Completo y UI Kit           | [Ver archivo en Figma](https://www.figma.com/proto/1XEQQgMIuC2ICZ8xW9tEbn/PhysaFlow-Calculator?node-id=12234-1424&p=f&t=P2pYA1iHtPX7uG13-1&scaling=min-zoom&content-scaling=fixed&page-id=12234%3A1143&starting-point-node-id=12234%3A1424)    |
+| 🎨 **Figma** — Flujo Completo y UI Kit           | [Ver archivo en Figma](https://www.figma.com/design/1XEQQgMIuC2ICZ8xW9tEbn/PhysaFlow-Calculator?node-id=12234-1143&t=810HaKFtPOgtSn68-1)    |
 | 📊 **FigJam** — User Journey & User Flow         | [Ver pizarra de investigación](https://www.figma.com/board/3D9qyDhZ1Yr7ZFOs1oK7yo/SO7-26-TEAM-17?node-id=0-1&t=t1OHxQQ9Yt7iAZDP-1)                                                                                                             |
 | 📁 **Prototipo Interactivo** — Momentos 1, 2 y 3 | [Ver prototipo navegable](https://www.figma.com/proto/1XEQQgMIuC2ICZ8xW9tEbn/PhysaFlow-Calculator?node-id=12234-1424&p=f&t=P2pYA1iHtPX7uG13-1&scaling=min-zoom&content-scaling=fixed&page-id=12234%3A1143&starting-point-node-id=12234%3A1424) |
 
