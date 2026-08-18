@@ -7,13 +7,13 @@ Herramienta interactiva para la estimación de capacidad desperdiciada e impacto
 Facilitar a operadores de data centers una estimación precisa del desperdicio de capacidad (*Stranded Capacity*) y su impacto financiero anual en menos de 3 minutos, mediante una experiencia fluida, sin fricción y orientada a la generación de valor inmediato y viralidad.
 
 ## 👤 Equipo
-| Nombre | Rol | Contacto |
+| Nombre | Rol | GitHub |
 | :--- | :--- | :--- |
-| **Ismael Miranda** | Product Designer | [Enviar correo](mailto:correo@ejemplo.com) |
-| **Romina Rao** | UX/UI Designer | [Enviar correo](mailto:correo@ejemplo.com) |
-| **Javiana Altuve** | UX/UI Designer | [Enviar correo](mailto:javianaaltuve3@gmail.com) |
-| **Estefania Parra** | UX/UI Designer | [Enviar correo](mailto:correo@ejemplo.com) |
-| **Vanesa Roshanaj Gamarra** | UX Researcher | [Enviar correo](mailto:correo@ejemplo.com) |
+| **Ismael Miranda** | Product Designer | [@usuario-ismael](https://github.com/usuario-ismael) |
+| **Romina Rao** | UX/UI Designer | [@usuario-romina](https://github.com/usuario-romina) |
+| **Javiana Altuve** | UX/UI Designer | [@javianaaltuve](https://github.com/javianaaltuve) |
+| **Estefania Parra** | UX/UI Designer | [@usuario-estefania](https://github.com/usuario-estefania) |
+| **Vanesa Roshanaj Gamarra** | UX Researcher | [@usuario-vanesa](https://github.com/usuario-vanesa) |
 
 ## 🔎 Enlaces del Proyecto
 
