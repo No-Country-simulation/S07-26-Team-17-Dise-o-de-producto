@@ -8,12 +8,12 @@ Facilitar a operadores de Data Centers una estimación precisa del desperdicio d
 
 ## 👤 Equipo
 
-| Nombre | Rol | GitHub |
+| Nombre | Rol | Perfil de GitHub |
 | :--- | :--- | :--- |
 | **Ismael Miranda** | Product Designer | [@Ismael-ArMiranda](https://github.com/Ismael-ArMiranda) |
 | **Romina Rao** | UX/UI Designer | [@RomiRao](https://github.com/RomiRao) |
 | **Javiana Altuve** | UX/UI Designer | [@javialtuve](https://github.com/javialtuve) |
-| **Estefania Parra** | UX/UI Designer | [@estefaniaparra]([https://github.com/usuario-estefania](https://github.com/estefaniaparzon)) |
+| **Estefania Parra** | UX/UI Designer | [@estefaniaparzon](https://github.com/estefaniaparzon) |
 | **Vanesa Roshanaj Gamarra** | UX Researcher | [@VanesaRGamarra](https://github.com/VanesaRGamarra) |
 
 ## 🔎 Enlaces del Proyecto
